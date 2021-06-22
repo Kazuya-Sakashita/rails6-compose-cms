@@ -60,3 +60,4 @@ Docker を用いて Rails 6 アプリケーションの開発・学習を始め�
 ```
 % docker-compose down
 ```
+# rails6-compose-cms
